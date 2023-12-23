@@ -632,6 +632,7 @@ function getCardId(value) {
       x = i;
     }
   });
+  return x;
 }
 
 module.exports = {
